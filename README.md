@@ -23,5 +23,7 @@ This folder contains essential guidelines and instructions for each stage of the
 In this folder, we document and store the various model ideas that were considered and explored during the development of the final model. This includes:
 
 - Different algorithms tested.
-- Notes on performance, challenges, and model selection criteria.
-- Insights gained from each iteration of the model development process.
+- Different pre-processing steps tested.
+- Different feature selection steps tested.
+
+## Feel free to explore and download any of the documents that are available in this repository, we hope it is helpful in any way. 📂🙂
