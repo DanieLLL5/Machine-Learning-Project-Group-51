@@ -10,8 +10,8 @@ This repository is organized into several folders that contain key information, 
 ### 🗂️ Deliverables
 This folder includes the final deliveries for different stages of the project, which are organized as follows:
 
-- Handout: Contains the final submission for the handout phase, including all the used in the handout submission and the final report intended structure.
-- Final Project: Contains the final submission for the project, including the code for the machine learning model developed, the code for the interactive predictions interface and the final report that summarizes the entire project, including methodology applied, results and conclusions.
+- Handout: Contains the final submission for the handout phase, including all the code used in the handout submission, the csv with the predictions for the test set and the final report intended structure.
+- Final Project: Contains the final submission for the project, including the code for the machine learning model developed, a csv with the final predictions for the test set, the code for the interactive predictions interface and the final report that summarizes the entire project, including methodology applied, results and conclusions.
 
 ### 📑 Description
 This folder contains essential guidelines and instructions for each stage of the project, which includes:
