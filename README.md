@@ -24,6 +24,6 @@ In this folder, we document and store the various model ideas that were consider
 
 - Different algorithms tested.
 - Different pre-processing steps tested.
-- Different feature selection steps tested.
+- Different feature selection methods used.
 
 ## Feel free to explore and download any of the documents that are available in this repository, we hope it is helpful in any way. 📂🙂
